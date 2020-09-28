@@ -1,0 +1,32 @@
+﻿<ListaPers>
+  <Persoana>
+    <Nume>a</Nume>
+    <Prenume>b</Prenume>
+    <CNP>c</CNP>
+  </Persoana>
+  <Persoana>
+    <Nume>aa</Nume>
+    <Prenume>bb</Prenume>
+    <CNP>cc</CNP>
+  </Persoana>
+  <Persoana>
+    <Nume>aaa</Nume>
+    <Prenume>bbb</Prenume>
+    <CNP>ccc</CNP>
+  </Persoana>
+  <Persoana>
+    <Nume>asdasd</Nume>
+    <Prenume>asdasd</Prenume>
+    <CNP>asdasd</CNP>
+  </Persoana>
+  <Persoana>
+    <Nume>asdasd</Nume>
+    <Prenume>asdasd</Prenume>
+    <CNP>asdasd</CNP>
+  </Persoana>
+  <Persoana>
+    <Nume>Andrei</Nume>
+    <Prenume>a</Prenume>
+    <CNP>a</CNP>
+  </Persoana>
+</ListaPers>

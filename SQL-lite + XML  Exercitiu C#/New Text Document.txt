@@ -1,0 +1,1 @@
+Conectare, Deconectare , Inserare, Delete, Update, Gridview, Cautare
